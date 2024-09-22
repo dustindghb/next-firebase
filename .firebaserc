@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "staging": "friendlyeats-codelab-a2f61",
+    "friendlyeats-codelab": "friendlyeats-codelab-a2f61",
+    "default": "friendlyeats-codelab-a2f61"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
